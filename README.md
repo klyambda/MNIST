@@ -1,4 +1,4 @@
 # MNIST
 
-База данных MNIST содержит изображения рукописных цифр. 
-http://yann.lecun.com/exdb/mnist/
+База данных [MNIST](http://yann.lecun.com/exdb/mnist/
+) содержит изображения рукописных цифр. 
